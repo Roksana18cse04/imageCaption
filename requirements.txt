@@ -1,0 +1,24 @@
+# Core
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+# AI & APIs
+openai-whisper
+requests
+python-dotenv
+
+# Video Processing
+moviepy
+ffmpeg-python
+pydub
+
+# Utilities
+pydantic
+python-magic
+loguru
+
+
+httpx
+redis
